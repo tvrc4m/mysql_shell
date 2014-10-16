@@ -1,0 +1,3 @@
+2014-9-15 2:11:38	UPDATE oc_order_status SET  name='Pending1' , states='1'  WHERE  order_status_id = '1'
+2014-9-15 2:49:41	UPDATE oc_order_status SET  name='Pending1' , states='1'  WHERE  order_status_id = '1'
+2014-9-15 3:7:27	UPDATE oc_order_status SET  name='Pending1' , states='1'  WHERE  order_status_id = '1'

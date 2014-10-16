@@ -1,0 +1,2 @@
+2014-9-21 1:24:48	UPDATE oc_product SET  preorder='1'  WHERE  product_id = '23'
+2014-9-21 1:24:59	UPDATE oc_product SET  preorder='1'  WHERE  product_id = '213'

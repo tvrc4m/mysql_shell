@@ -1,0 +1,3 @@
+2014-9-20 9:36:7	UPDATE oc_product SET  preorder='1' , date_preorder='2014-10-10'  WHERE  product_id = '853'
+2014-9-20 9:36:7	UPDATE oc_product SET  preorder='1' , date_preorder='2014-10-10'  WHERE  product_id = '853'
+2014-9-20 9:36:7	UPDATE oc_product SET  preorder='1' , date_preorder='2014-10-10'  WHERE  product_id = '853'
